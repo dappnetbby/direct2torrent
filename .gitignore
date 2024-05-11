@@ -1,0 +1,6 @@
+build/
+*.tar.gz
+torrent-linux-amd64
+downloads/**/*
+**/*/.DS_Store
+node_modules

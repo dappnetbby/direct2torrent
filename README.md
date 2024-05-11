@@ -3,6 +3,8 @@
 
 A simple file upload service which publishes uploads on BitTorrent, and returns the magnet URI.
 
+Made at Sozu Haus Australia 2024.
+
 The server runs a BitTorrent peer and immediately starts seeding the file via webtorrent.
 
 ## Install.
